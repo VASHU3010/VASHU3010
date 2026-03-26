@@ -58,7 +58,19 @@ Credits and references used in this README:
 </table> 
 ---
 --->
+### 🚀 LeetCode Info
 
+<div align="center"> 
+  <a href="https://leetcode.com/u/VASHU_TOMAR/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" height="150" />
+  </a>
+  <a href="https://leetcode.com/u/VASHU_TOMAR/" target="_blank">
+    <img src="https://leetcode.com/static/images/badges/2025/gif/2025-10.gif" height="150" />
+  </a>
+  <a href="https://leetcode.com/u/VASHU_TOMAR/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" height="150" />
+  </a>
+</div>
 
 ## 📊 GitHub Stats
 <!-- Stats card by anuraghazra/github-readme-stats
