@@ -39,9 +39,9 @@ Credits and references used in this README:
 - UI/UX Fundamentals (Figma)
   
 ---
-
+<!---
 ## Projects - showcase
-<!--- <table>
+ <table>
   <tr>
     <td align="center" width="33%">
       <a href="">
@@ -75,13 +75,17 @@ Credits and references used in this README:
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- [**Portfolio**] ---->
-- [**Contact**](vashutomar2003@gmail.com)
+- [**Contact**]
+- (vashutomar2003@gmail.com)
 
-<a href="https://www.linkedin.com/in/vashu-tomar-csd/" target="blank">
+<a href="https://www.linkedin.com/in/vashu-tomar-csd/" target="blank"> LinkedIn
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/chaudhary_vashu_tomar/" target="blank">
+<a href="https://www.instagram.com/chaudhary_vashu_tomar/" target="blank"> Instagram
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
+<a href="https://leetcode.com/u/VASHU_TOMAR/" target="blank"> LeetCode
+  <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" />
 </a>
 
 <!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
