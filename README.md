@@ -66,27 +66,27 @@ Credits and references used in this README:
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
 
-![Vashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VASHU3010&show_icons=true&theme=dracula&count_private=true)
-<!---
-![GitHub Streak](https://streak-stats.demolab.com?user=VASHU3010&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)   --->
+![Vashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VASHU3010&show_icons=true&theme=tokyonight&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=VASHU3010&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ---
 
-## Links
-<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
-     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- [**Portfolio**] ---->
-- [**Contact**]
-- (vashutomar2003@gmail.com)
+## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/vashu-tomar-csd/" target="blank"> LinkedIn
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/chaudhary_vashu_tomar/" target="blank"> Instagram
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>
-<a href="https://leetcode.com/u/VASHU_TOMAR/" target="blank"> LeetCode
-  <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" />
-</a>
+- 📧 Email: [vashutomar2003@gmail.com](mailto:vashutomar2003@gmail.com)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vashu-tomar-csd/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+   <a href="https://leetcode.com/u/VASHU_TOMAR/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/chaudhary_vashu_tomar/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+</p>
 
 <!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
 
