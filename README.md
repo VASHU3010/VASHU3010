@@ -104,4 +104,4 @@ Credits and references used in this README:
 
 <!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjVvZHE3cDRpejdpemZ1MTQ5cGZqN2FyZnhta3pmNGhneDA1NXhpMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/m2qp0mv3HJ3e39VxMY/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxkcmx6Z2o2cm5sY2NzbGxxMTVia3ozOTRsN25jYmZ1MXc4OHh6eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/m3dwsptqdL29SUiZG8/giphy.gif" alt="See you later." width="200" />
