@@ -83,6 +83,8 @@ Credits and references used in this README:
 ![Vashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VASHU3010&show_icons=true&theme=tokyonight&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=VASHU3010&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
 ---
 
 ## 🌐 Connect With Me
