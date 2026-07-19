@@ -80,9 +80,9 @@ Credits and references used in this README:
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VASHU3010&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VASHU3010&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VASHU3010&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=VASHU3010&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VASHU3010&layout=compact&theme=tokyonight)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=VASHU3010&theme=tokyo-night)
      
 ![Vashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VASHU3010&show_icons=true&theme=tokyonight&count_private=true)
