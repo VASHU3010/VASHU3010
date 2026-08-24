@@ -20,7 +20,7 @@ Credits and references used in this README:
 
 - Computer Science student passionate about development and problem-solving.
 
-- Skilled in **React, Node.js, and JavaScript**, with a strong interest in **DSA and frontend development**.
+- Skilled in **React, Node.js, and JavaScript**, with a strong interest in ** Frontend development**.
 
 🚀 Focused on building real-world projects and growing every day.
 
