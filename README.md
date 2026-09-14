@@ -18,7 +18,7 @@ Credits and references used in this README:
 
 ## 👨‍💻 About Me
 
-- Computer Science student passionate about development and problem-solving.
+- Computer Science graduate passionate about development and problem-solving.
 
 - Skilled in **React, Node.js, and JavaScript**, with a strong interest in ** Frontend development**.
 
